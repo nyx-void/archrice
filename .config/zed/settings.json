@@ -12,7 +12,7 @@
   "project_panel": {
     "dock": "right"
   },
-  "theme": "Gruvbox Dark Hard",
+  "theme": "Gruvbox Dark Soft",
   "base_keymap": "VSCode",
   "buffer_font_family": "Hack",
   "buffer_font_size": 13,
