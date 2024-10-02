@@ -80,6 +80,7 @@ colorscheme vim
 	nnoremap <S-l> :vertical resize -5<CR>
 	nnoremap <S-k> :resize +2<CR>
 	nnoremap <S-j> :resize -2<CR>
+	nnoremap <C-s> :r ~/.config/nvim/snippets/<C-d>
 
 " Replace ex mode with gq
 	map Q gq
